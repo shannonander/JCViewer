@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	var chance = Math.floor(Math.random() * 10);
-	if(chance == 6) {
+	if(chance == 1) {
 		cenafy();
 	}
 });
