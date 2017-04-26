@@ -1,6 +1,6 @@
 $(document).ready(function() {
-	var chance = Math.floor(Math.random() * 25);
-	if(chance == 1) {
+	var chance = Math.floor(Math.random() * 5);
+	if(chance == 3) {
 		cenafy();
 	}
 });
